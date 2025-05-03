@@ -1,4 +1,4 @@
-# Mixture of Sparse Attention (MoSA) repository
+# Mixture of Sparse Attention (MoSA) 
 
 Paper: https://arxiv.org/abs/2505.00315
 
