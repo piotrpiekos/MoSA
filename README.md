@@ -1,4 +1,6 @@
-# MoSA
+# Mixture of Sparse Attention (MoSA) repository
+
+Paper: https://arxiv.org/abs/2505.00315
 
 ![MoSA architecture diagram](./MoSA.png)
 
